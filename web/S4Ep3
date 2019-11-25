@@ -1,0 +1,186 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+	<head>
+		<title>Videos</title>
+		<link href="css/style.css" rel="stylesheet" type="text/css"  media="all" />
+	</head>
+	<body>
+		<!---start-wrap---->
+			<!---start-header---->
+			<div class="header">
+				<div class="wrap">
+				<!---start-logo---->
+				<div class="logo">
+					<a href="index.html"><img src="images/logo.png" title="logo" /></a>
+				</div>
+				<!---End-logo---->
+				<!---start-top-menu-search---->
+				<div class="top-menu">
+					<div class="top-nav">
+						<ul>
+							<li><a href="#">Home</a></li>
+							<a class="button" href="index.html">Videos</a>
+							
+						</ul>
+					</div>
+					<div class="search">
+						<form>
+							
+						</form>
+					</div>
+					<div class="clear"> </div>
+				</div>
+				<div class="clear"> </div>
+				<!---End-top-menu-search---->
+			</div>
+			<!---End-header---->
+		</div>
+		<div class="clear"> </div>
+		<!---start-content---->
+		<div class="main-content">
+			<div class="wrap">
+			<div class="left-sidebar">
+				<div class="sidebar-boxs">
+					<div class="clear"> </div>
+					<div class="type-videos">
+						<h3>Seasons</h3>
+		<!---idfk Season/ep selector--->			
+						<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+.active, .collapsible:hover {
+  background-color: #555;
+}
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+} 
+</style>
+</head>
+<body>
+<button type="button" class="collapsible">Season 1</button>
+<div class="content">
+  <p><a href="Ep1.html">Ep 1 -"Pilot"</a> </p>
+  <p><a href="Ep2.html">Ep 2 -"Lawnmower Dog"</a> </p>
+  <p><a href="Ep3.html">Ep 3 -"Anatomy Park"</a> </p>
+  <p><a href="Ep4.html">Ep 4 -"M. Night Shaym-Aliens!"</a> </p>
+  <p><a href="Ep5.html">Ep 5 -"Meeseeks and Destroy"</a> </p>
+  <p><a href="Ep6.html">Ep 6 -"Rick Potion #9"</a> </p>
+  <p><a href="Ep7.html">Ep 7 -"Raising Gazorpazorp"</a> </p>
+  <p><a href="Ep8.html">Ep 8 -"Rixty Minutes"</a> </p>
+  <p><a href="Ep9.html">Ep 9 -"Something Ricked This Way Comes"</a> </p>
+  <p><a href="Ep10.html">Ep 10 -"Close Rick-counters of the Rick Kind"</a> </p>
+  <p><a href="Ep11.html">Ep 11 -"Ricksy Business"</a> </p>
+  
+  
+</div>
+<button type="button" class="collapsible">Season 2</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button type="button" class="collapsible">Season 3</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button type="button" class="collapsible">Season 4</button>
+<div class="content">
+  <p><a href="S4Ep1.html">S4Ep 1 -N/A </p>
+  <p><a href="S4Ep2.html">S4Ep 2 -"The Old Man And The Seat"</a> </p>
+  <p><a href="S4Ep3.html">S4Ep 3 -"One Crew Over the Crewcoo's Nest"</a> </p>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
+
+					</div>
+				</div>
+			</div>
+			<div class="right-content">
+				<div class="right-content-heading">
+					<div class="right-content-heading-left">
+						<h3>Latest Categories of videos</h3>
+					</div>
+					<div class="right-content-heading-right">
+						<div class="social-icons">
+			                <ul>
+			                    <li><a class="facebook" href="#" target="_blank"> </a></li>
+			                    <li><a class="twitter" href="#" target="_blank"></a></li>
+			                    <li><a class="googleplus" href="#" target="_blank"></a></li>
+			                    <li><a class="pinterest" href="#" target="_blank"></a></li>
+			                    <li><a class="dribbble" href="#" target="_blank"></a></li>
+			                    <li><a class="vimeo" href="#" target="_blank"></a></li>
+			                </ul>
+					</div>
+					</div>
+					<div class="clear"> </div>
+				</div>
+				<div class="inner-page">
+				<div class="title">
+					<h3></h3>
+					<ul>
+						
+					</ul>
+				</div>
+				<div class="video-inner">
+<iframe src="https://drive.google.com/file/d/1O4-WFoWkyLCPGdNqqSOTjFovfrIDVG1v/preview" width="640" height="480"></iframe>
+						</div>
+				<div class="clear"> </div>
+				<div class="video-details">
+					<ul>
+				    <ul>
+				</div>
+				<div class="clear"> </div>
+				<div class="tags">
+					<ul>
+						
+			</div>
+			</div>
+			<div class="clear"> </div>
+			</div>
+		</div>
+		<div class="clear"> </div>
+		<!---End-content---->
+		<!---start-copy-right---->
+		<div class="copy-right">
+			<p> &copy; 2013 Videos. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+		</div>
+		<!---End-copy-right---->
+		<!---End-wrap---->
+	</body>
+</html>
